@@ -1,6 +1,6 @@
 <#assign wp=JspTaglibs["/aps-core"]>
 <script src="<@wp.resourceURL />entando-mf-conf-template/static/js/2.e173e668.chunk.js"></script>
-<script src="<@wp.resourceURL />entando-mf-conf-template/static/js/main.76c1a97f.chunk.js"></script>
+<script src="<@wp.resourceURL />entando-mf-conf-template/static/js/main.5a7b904a.chunk.js"></script>
 <script src="<@wp.resourceURL />entando-mf-conf-template/static/js/runtime-main.0096342d.js"></script>
 <#-- entando_resource_injection_point -->
 <#-- Don't add anything above this line. The build scripts will automatically link the compiled JS and CSS for you and add them above this line so that the widget can be loaded-->
